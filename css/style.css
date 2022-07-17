@@ -1,0 +1,17 @@
+
+body{
+    background-color: azure;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+footer{
+    text-align: center;
+    background-color: aquamarine;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
